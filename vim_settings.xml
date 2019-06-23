@@ -17,12 +17,12 @@
         <mark key="^" line="22" column="28" />
         <mark key="." line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" timestamp="1561211891427">
-        <mark key="'" line="25" column="27" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="22" />
-        <mark key="^" line="12" column="22" />
-        <mark key="." line="12" column="22" />
+      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" timestamp="1561301994876">
+        <mark key="'" line="55" column="27" />
+        <mark key="[" line="24" column="91" />
+        <mark key="]" line="31" column="56" />
+        <mark key="^" line="31" column="56" />
+        <mark key="." line="31" column="56" />
       </file>
       <file name="$USER_HOME$/Workspace/dev/hello/build.gradle" timestamp="1561211100223">
         <mark key="'" line="0" column="0" />
@@ -50,6 +50,12 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="$USER_HOME$/Workspace/dev/hello/src/test/java/com/noel/hello/HelloApplicationTests.java" timestamp="1561301575107">
+        <mark key="[" line="22" column="27" />
+        <mark key="]" line="22" column="44" />
+        <mark key="^" line="22" column="44" />
+        <mark key="." line="22" column="44" />
+      </file>
       <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/service/ContactService.java" timestamp="1561214042399">
         <mark key="[" line="18" column="62" />
         <mark key="]" line="13" column="29" />
@@ -70,18 +76,26 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Contact</text>
+        <text>SqlSession</text>
       </register>
       <register name="-" type="4">
-        <text>Contact</text>
+        <text>SqlSession</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDwpXD4=</text>
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDwpXD4=</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDwpXD4=</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDwpXD4=</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
