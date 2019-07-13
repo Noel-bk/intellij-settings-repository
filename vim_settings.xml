@@ -10,6 +10,12 @@
         <mark key="^" line="25" column="1" />
         <mark key="." line="25" column="1" />
       </file>
+      <file name="$USER_HOME$/Workspace/tb/user/src/main/java/io/tbal/Application.java" timestamp="1563019642015">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/controller/HomeController.java" timestamp="1561213323564">
         <mark key="'" line="22" column="42" />
         <mark key="[" line="22" column="15" />
@@ -97,10 +103,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDwpXD4=</text>
