@@ -24,6 +24,12 @@
         <mark key="^" line="29" column="77" />
         <mark key="." line="29" column="77" />
       </file>
+      <file name="$USER_HOME$/Workspace/tb/truebalance-api/balance-api/src/test/java/io/tbal/balance/Zulu.java" timestamp="1563288046832">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="48" />
+        <mark key="^" line="8" column="48" />
+        <mark key="." line="8" column="48" />
+      </file>
       <file name="$USER_HOME$/Workspace/dev/hello/src/test/java/com/noel/hello/HelloApplicationTests.java" timestamp="1561306099181">
         <mark key="'" line="21" column="0" />
         <mark key="[" line="22" column="27" />
@@ -78,6 +84,9 @@
         <mark key="^" line="10" column="3" />
         <mark key="." line="10" column="5" />
       </file>
+      <file name="/fragment.java" timestamp="1563287992122">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/service/ContactService.java" timestamp="1561305571412">
         <mark key="'" line="18" column="0" />
         <mark key="[" line="18" column="62" />
@@ -108,10 +117,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isnof</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>isnof</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx0aGlyZFBhcnR5Q29tbWVyY2VQYXRoc1w+</text>
