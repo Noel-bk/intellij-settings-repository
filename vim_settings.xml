@@ -1,152 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
-    <globalmarks />
-    <filemarks>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/controller/HomeController.java" timestamp="1561213323564">
-        <mark key="'" line="22" column="42" />
-        <mark key="[" line="22" column="15" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" timestamp="1561305968837">
-        <mark key="'" line="32" column="8" />
-        <mark key="[" line="27" column="47" />
-        <mark key="]" line="27" column="61" />
-        <mark key="^" line="27" column="61" />
-        <mark key="." line="27" column="61" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/build.gradle" timestamp="1561211100223">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="31" column="67" />
-        <mark key="]" line="29" column="77" />
-        <mark key="^" line="29" column="77" />
-        <mark key="." line="29" column="77" />
-      </file>
-      <file name="$USER_HOME$/Workspace/tb/truebalance-api/balance-api/src/test/java/io/tbal/balance/Zulu.java" timestamp="1563288046832">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="8" column="48" />
-        <mark key="^" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/test/java/com/noel/hello/HelloApplicationTests.java" timestamp="1561306099181">
-        <mark key="'" line="21" column="0" />
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="44" />
-        <mark key="^" line="22" column="44" />
-        <mark key="." line="22" column="44" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/model/Contact.java" timestamp="1561214256103">
-        <mark key="'" line="25" column="1" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="25" column="1" />
-        <mark key="^" line="25" column="1" />
-        <mark key="." line="25" column="1" />
-      </file>
-      <file name="$USER_HOME$/Workspace/tb/user/src/main/java/io/tbal/Application.java" timestamp="1563019871345">
-        <mark key="[" line="28" column="83" />
-        <mark key="]" line="28" column="11" />
-        <mark key="." line="28" column="11" />
-        <mark key="^" line="28" column="11" />
-      </file>
-      <file name="$USER_HOME$/Workspace/tb/truebalance-api/order-domain/src/main/java/io/tbal/order/domain/notify/service/PushComponent.java" timestamp="1563807969341">
-        <mark key="'" line="29" column="34" />
-      </file>
-      <file name="$USER_HOME$/Workspace/tb/truebalance-api/balance-api/src/main/java/io/tbal/balance/api/web/config/BalanceApiServletConfig.java" timestamp="1563020764015">
-        <mark key="'" line="40" column="85" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/test/java/com/noel/hello/Zulu.java" timestamp="1562159642028">
-        <mark key="[" line="22" column="33" />
-        <mark key="]" line="23" column="42" />
-        <mark key="^" line="23" column="42" />
-        <mark key="." line="23" column="42" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/resources/application.properties" timestamp="1561305846529">
-        <mark key="'" line="3" column="0" />
-        <mark key="[" line="4" column="36" />
-        <mark key="]" line="6" column="54" />
-        <mark key="." line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/model/Board.java" timestamp="1561305801204">
-        <mark key="[" line="15" column="13" />
-        <mark key="]" line="15" column="19" />
-        <mark key="^" line="15" column="19" />
-        <mark key="." line="15" column="19" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/repository/ContactRepository.java" timestamp="1561214038822">
-        <mark key="[" line="5" column="66" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="69" />
-        <mark key="^" line="5" column="69" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/HelloApplication.java" timestamp="1561213247222">
-        <mark key="[" line="10" column="5" />
-        <mark key="]" line="10" column="3" />
-        <mark key="^" line="10" column="3" />
-        <mark key="." line="10" column="5" />
-      </file>
-      <file name="/fragment.java" timestamp="1563287992122">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/service/ContactService.java" timestamp="1561305571412">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="18" column="62" />
-        <mark key="]" line="13" column="29" />
-        <mark key="^" line="13" column="29" />
-        <mark key="." line="13" column="29" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Workspace/dev/hello/build.gradle" />
-      <jump line="0" column="0" filename="$USER_HOME$/Workspace/dev/hello/build.gradle" />
-      <jump line="6" column="0" filename="$USER_HOME$/Workspace/dev/hello/src/main/resources/application.properties" />
-      <jump line="5" column="65" filename="$USER_HOME$/Workspace/dev/hello/src/main/resources/application.properties" />
-      <jump line="26" column="0" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" />
-      <jump line="25" column="27" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" />
-      <jump line="3" column="0" filename="$USER_HOME$/Workspace/dev/hello/src/main/resources/application.properties" />
-      <jump line="22" column="42" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/controller/HomeController.java" />
-      <jump line="22" column="1" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/model/Contact.java" />
-      <jump line="11" column="13" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/service/ContactService.java" />
-      <jump line="19" column="0" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/service/ContactService.java" />
-      <jump line="18" column="0" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/service/ContactService.java" />
-      <jump line="24" column="94" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" />
-      <jump line="15" column="0" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" />
-      <jump line="32" column="8" filename="$USER_HOME$/Workspace/dev/hello/src/main/java/com/noel/hello/configuration/DatabaseConfiguration.java" />
-      <jump line="21" column="0" filename="$USER_HOME$/Workspace/dev/hello/src/test/java/com/noel/hello/HelloApplicationTests.java" />
-      <jump line="21" column="21" filename="$USER_HOME$/Workspace/tb/truebalance-api/balance-api/src/main/java/io/tbal/balance/api/web/config/BalanceApiServletConfig.java" />
-      <jump line="40" column="85" filename="$USER_HOME$/Workspace/tb/truebalance-api/balance-api/src/main/java/io/tbal/balance/api/web/config/BalanceApiServletConfig.java" />
-      <jump line="29" column="34" filename="$USER_HOME$/Workspace/tb/truebalance-api/order-domain/src/main/java/io/tbal/order/domain/notify/service/PushComponent.java" />
-    </jumps>
-    <registers>
-      <register name="&quot;" type="4">
-        <text>isnof</text>
-      </register>
-      <register name="-" type="4">
-        <text>isnof</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxxdWV1ZU1lc3NhZ2VQdWJsaXNoZXJcPg==</text>
-      </register>
-    </registers>
-    <search>
-      <last-search encoding="base64">XDxxdWV1ZU1lc3NhZ2VQdWJsaXNoZXJcPg==</last-search>
-      <last-offset />
-      <last-pattern encoding="base64">XDxxdWV1ZU1lc3NhZ2VQdWJsaXNoZXJcPg==</last-pattern>
-      <last-dir>-1</last-dir>
-      <show-last>false</show-last>
-    </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDwpXD4=</entry>
-        <entry encoding="base64">XDx0aGlyZFBhcnR5Q29tbWVyY2VQYXRoc1w+</entry>
-        <entry encoding="base64">XDxxdWV1ZU1lc3NhZ2VQdWJsaXNoZXJcPg==</entry>
-      </history-search>
-      <history-cmd />
-      <history-expr />
-      <history-input />
-    </history>
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
@@ -155,5 +9,10 @@
     <editor>
       <key-repeat enabled="false" />
     </editor>
+    <notifications>
+      <idea-join enabled="true" />
+      <idea-put enabled="false" />
+      <template-selectmode enabled="false" />
+    </notifications>
   </component>
 </application>
