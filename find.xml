@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'io.tbal.cms'" />
-    <option name="defaultScopeName" value="Project 'io.tbal.cms'" />
-    <option name="SEARCH_SCOPE" value="Project 'io.tbal.cms'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="!*.log" />
     <mask>*.css</mask>
     <mask>*.html</mask>
