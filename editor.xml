@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="COMPLETION_CASE_SENSITIVE" value="2" />
   </component>
+  <component name="DaemonCodeAnalyzerSettings" profile="TB_Java_Inspection_v1.0" />
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="14" />
     <option name="FONT_FAMILY" value="Fira Code Retina" />
