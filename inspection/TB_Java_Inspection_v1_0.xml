@@ -1,0 +1,4 @@
+<profile version="1.0">
+  <option name="myName" value="TB_Java_Inspection_v1.0" />
+  <inspection_tool class="UnnecessaryInterfaceModifier" enabled="false" level="WARNING" enabled_by_default="false" />
+</profile>
